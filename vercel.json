@@ -6,13 +6,10 @@
       "use": "@vercel/static-build"
     }
   ],
-  "scripts": {
-    "build": "npm install && npm run build"
-  },
   "routes": [
     {
       "src": "/(.*)",
       "dest": "/index.html"
     }
-  }
+  ]
 }
