@@ -1,6 +1,7 @@
 {
   "name": "furwhisk-swap",
   "version": "1.0.0",
+  "type": "module",
   "description": "FurWhisk Swap App",
   "main": "index.js",
   "scripts": {
